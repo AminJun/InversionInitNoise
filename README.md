@@ -10,6 +10,7 @@ use:
   x = distributions[target].sample()
 ``` 
 
-Examples:
+### Examples
+
 ![alt text](https://github.com/AminJun/InversionInitNoise/blob/main/examples/samples.png)
 
